@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Venkat Reddy! 👋</h1>
 
-## 🌐 Web Dev | Cloud | AI/ML Enthusiast
+## 🌐 Web Developer
 
 🎓 B.Tech CSE @ SRM Institute of Science and Technology  
 🌍 Nellore, India  

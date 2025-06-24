@@ -12,16 +12,16 @@
 
 ## 🌐 Connect with Me
 
-<a href="https://Portfolio/Venkat">
+<a href="https://www.Portfolio.com/Venkat">
   <img src="https://guvvala-portfolio.netlify.app/?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/kushal">
+<a href="https://www.linkedin.com/in/Venkat">
   <img src="https://www.linkedin.com/in/guvvalavenkat-8180372a0?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/saikushal">
-  <img src="https://img.shields.io/badge/Instagram-lucky_venky._-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/Venkat">
+  <img src="https://www.instagram.com/lucky_venky._/?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.hackerrank.com/usk907">
+<a href="https://www.hackerrank.com/Venkat">
   <img src="https://img.shields.io/badge/HackerRank-usk907-2ec866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 

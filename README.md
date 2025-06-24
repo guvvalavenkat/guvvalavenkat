@@ -2,45 +2,53 @@
 
 ## 🌐 Web Developer
 
-🎓 B.Tech CSE @ SRM Institute of Science and Technology
-💻 Passionate about Coding and Web Development
+🎓 B.Tech CSE @ SRM Institute of Science and Technology  
+💻 Passionate about Coding and Web Development  
 🌍 Nellore, India  
 📧 [guvvalavenkat4@gmail.com](mailto:guvvalavenkat4@gmail.com)  
 🔗 [Portfolio](https://guvvala-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/guvvalavenkat-8180372a0) | [GitHub](https://github.com/guvvalavenkat)
 
 ---
 
+## 🔖 Tags & Interests
+
+![Coding](https://img.shields.io/badge/-Coding-6e40c9?style=for-the-badge&logo=codeforces&logoColor=white)
+![Web Development](https://img.shields.io/badge/-Web%20Development-03a9f4?style=for-the-badge&logo=vercel&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00c853?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/-Cloud-AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-212121?style=for-the-badge&logo=kaspersky&logoColor=white)
+
+---
+
 ## 🌐 Connect with Me
 
-<a href="https://www.Portfolio.com/Venkat">
-  <img src="https://guvvala-portfolio.netlify.app/?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://guvvala-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Venkat-red?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/Venkat">
-  <img src="https://www.linkedin.com/in/guvvalavenkat-8180372a0?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/guvvalavenkat-8180372a0">
+  <img src="https://img.shields.io/badge/LinkedIn-Venkat-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/Venkat">
-  <img src="https://www.instagram.com/lucky_venky._/?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/lucky_venky._/">
+  <img src="https://img.shields.io/badge/Instagram-lucky__venky._-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.hackerrank.com/Venkat">
+<a href="https://www.hackerrank.com/usk907">
   <img src="https://img.shields.io/badge/HackerRank-usk907-2ec866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 ---
-### 🧠 Skills & Interests
+
+## 🧠 Skills & Interests
 
 - 💻 Web Development (HTML, CSS, JavaScript, PHP)
 - ☁️ AWS & Cloud Deployment
 - 🤖 Machine Learning & AI
 - 🔐 Cybersecurity & Quantum Key Distribution (QKD)
 - 🛠️ DBMS, MySQL, Git, GitHub
-- 🧠 Hackathons: SRM Pentathon, Digithon, IIT Jammu Hackathon
-
-![Coding](https://img.shields.io/badge/-Coding-6e40c9?style=for-the-badge&logo=codeforces&logoColor=white)
-![Web Development](https://img.shields.io/badge/-Web%20Development-03a9f4?style=for-the-badge&logo=vercel&logoColor=white)
+- 🏆 Hackathons: SRM Pentathon, Digithon, IIT Jammu Hackathon
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -55,23 +63,7 @@
 
 ---
 
-### 🌐 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/guvvalavenkat-8180372a0">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:guvvalavenkat4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/guvvalavenkat">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guvvalavenkat&show_icons=true&theme=tokyonight"/>
@@ -80,7 +72,7 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 - **Quantum Voting System (BB84 + QKD)** – Secure e-voting using Python  
 - **Inventory Management System** – MySQL & real-time reporting  
@@ -90,7 +82,7 @@
 
 ---
 
-### 📜 Certifications
+## 📜 Certifications
 
 - Cisco – Computer Networks  
 - Oracle – Cloud Infrastructure Foundations  
@@ -100,10 +92,10 @@
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
 ![Venkat's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=guvvalavenkat&theme=react-dark)
 
 ---
 
-> Let’s connect and build something amazing together! 💡
+> ✨ Let’s connect and build something amazing together!

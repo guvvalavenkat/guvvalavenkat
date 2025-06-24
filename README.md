@@ -15,7 +15,6 @@
 ![Coding](https://img.shields.io/badge/-Coding-6e40c9?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Web Development](https://img.shields.io/badge/-Web%20Development-03a9f4?style=for-the-badge&logo=vercel&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00c853?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/-Cloud-AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-212121?style=for-the-badge&logo=kaspersky&logoColor=white)
 
 ---

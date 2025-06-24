@@ -2,13 +2,30 @@
 
 ## 🌐 Web Developer
 
-🎓 B.Tech CSE @ SRM Institute of Science and Technology  
+🎓 B.Tech CSE @ SRM Institute of Science and Technology
+💻 Passionate about Coding and Web Development
 🌍 Nellore, India  
 📧 [guvvalavenkat4@gmail.com](mailto:guvvalavenkat4@gmail.com)  
 🔗 [Portfolio](https://guvvala-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/guvvalavenkat-8180372a0) | [GitHub](https://github.com/guvvalavenkat)
 
 ---
 
+## 🌐 Connect with Me
+
+<a href="https://Portfolio/Venkat">
+  <img src="https://guvvala-portfolio.netlify.app/?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/kushal">
+  <img src="https://www.linkedin.com/in/guvvalavenkat-8180372a0?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/saikushal">
+  <img src="https://img.shields.io/badge/Instagram-lucky_venky._-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/usk907">
+  <img src="https://img.shields.io/badge/HackerRank-usk907-2ec866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
+---
 ### 🧠 Skills & Interests
 
 - 💻 Web Development (HTML, CSS, JavaScript, PHP)
@@ -17,6 +34,9 @@
 - 🔐 Cybersecurity & Quantum Key Distribution (QKD)
 - 🛠️ DBMS, MySQL, Git, GitHub
 - 🧠 Hackathons: SRM Pentathon, Digithon, IIT Jammu Hackathon
+
+![Coding](https://img.shields.io/badge/-Coding-6e40c9?style=for-the-badge&logo=codeforces&logoColor=white)
+![Web Development](https://img.shields.io/badge/-Web%20Development-03a9f4?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 

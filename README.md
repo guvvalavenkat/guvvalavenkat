@@ -2,10 +2,10 @@
 
 ## 🌐 Web Dev | Cloud | AI/ML Enthusiast
 
-🎓 Currently pursuing B.Tech in CSE at SRM Institute of Science and Technology  
-🚀 Passionate about building full-stack applications, exploring AWS, and working with AI models  
-🔐 Enthusiastic about cybersecurity and quantum technologies  
-📊 Love solving real-world problems using tech and data!
+🎓 B.Tech CSE @ SRM Institute of Science and Technology  
+🌍 Nellore, India  
+📧 [guvvalavenkat4@gmail.com](mailto:guvvalavenkat4@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/guvvalavenkat-8180372a0) | [GitHub](https://github.com/guvvalavenkat)
 
 ---
 
@@ -14,10 +14,9 @@
 - 💻 Web Development (HTML, CSS, JavaScript, PHP)
 - ☁️ AWS & Cloud Deployment
 - 🤖 Machine Learning & AI
-- 🔒 Cybersecurity & Quantum Key Distribution (QKD)
+- 🔐 Cybersecurity & Quantum Key Distribution (QKD)
 - 🛠️ DBMS, MySQL, Git, GitHub
-- 🎯 Hackathon Participant (SRM & IIT Jammu)
-- 🌱 Exploring IoT and Automation
+- 🧠 Hackathons: SRM Pentathon, Digithon, IIT Jammu Hackathon
 
 ---
 
@@ -61,30 +60,30 @@
 
 ---
 
-### 💡 Featured Projects
+### 🚀 Featured Projects
 
-- **Quantum Secure Online Voting** – BB84-based secure voting protocol using QKD & Python  
-- **Inventory Management System** – Sales/order tracking system with SQL integration  
-- **AI Object Detection** – Real-world detection system using Python ML  
-- **Portfolio Website** – Built with HTML/CSS/JS showcasing my work  
-- **Netflix UI Clone** – Responsive UI/UX design replication
+- **Quantum Voting System (BB84 + QKD)** – Secure e-voting using Python  
+- **Inventory Management System** – MySQL & real-time reporting  
+- **AI Object Detection** – Python ML with real-world data  
+- **Netflix UI Clone** – HTML/CSS/JS for sleek frontend  
+- **Portfolio Website** – Live resume & project hub
 
 ---
 
 ### 📜 Certifications
 
-- Cisco: Computer Networks  
-- Oracle: Cloud Infrastructure Foundations  
-- Fortinet: Certified Cybersecurity  
-- Coursera: DBMS, IoT  
-- AWS: Cloud Studio Internship  
+- Cisco – Computer Networks  
+- Oracle – Cloud Infrastructure Foundations  
+- Fortinet – Certified Cybersecurity  
+- Coursera – DBMS, IoT  
+- AWS – Cloud Studio Internship  
 
 ---
 
-### 📅 GitHub Activity
+### 📊 GitHub Activity
 
 [![Venkat's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=guvvalavenkat&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-> “Let’s connect and collaborate to create something innovative!” 🚀  
+> Let’s connect and build something amazing together! 💡

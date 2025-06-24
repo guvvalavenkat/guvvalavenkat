@@ -5,7 +5,7 @@
 🎓 B.Tech CSE @ SRM Institute of Science and Technology  
 🌍 Nellore, India  
 📧 [guvvalavenkat4@gmail.com](mailto:guvvalavenkat4@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/guvvalavenkat-8180372a0) | [GitHub](https://github.com/guvvalavenkat)
+🔗 [Portfolio](https://guvvala-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/guvvalavenkat-8180372a0) | [GitHub](https://github.com/guvvalavenkat)
 
 ---
 

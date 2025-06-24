@@ -82,8 +82,7 @@
 
 ### 📊 GitHub Activity
 
-![Venkat's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=guvvalavenkat&theme=react-dark)
-
+![Venkat's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=guvvalavenkat&theme=react-dark)
 
 ---
 

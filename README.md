@@ -30,8 +30,8 @@
 <a href="https://www.instagram.com/lucky_venky._/">
   <img src="https://img.shields.io/badge/Instagram-lucky__venky._-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.hackerrank.com/usk907">
-  <img src="https://img.shields.io/badge/HackerRank-usk907-2ec866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<a href="https://www.hackerrank.com/venkat830">
+  <img src="https://img.shields.io/badge/HackerRank-venkat830-2ec866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 ---

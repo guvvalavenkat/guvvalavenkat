@@ -63,15 +63,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guvvalavenkat&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guvvalavenkat&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 - **Quantum Voting System (BB84 + QKD)** – Secure e-voting using Python  

@@ -65,12 +65,25 @@
 
 ## 🚀 Featured Projects
 
-- **Quantum Voting System (BB84 + QKD)** – Secure e-voting using Python  
-- **Inventory Management System** – MySQL & real-time reporting  
-- **AI Object Detection** – Python ML with real-world data  
-- **Netflix UI Clone** – HTML/CSS/JS for sleek frontend  
-- **Portfolio Website** – Live resume & project hub
+- **Enhanced Code Compilation & Quiz Platform with AI Chatbot** *(🔒 Private)* – Python, Flask, MySQL & OpenAI-powered coding assessment platform with real-time code execution, quizzes, analytics, and AI assistance.
 
+- **Campus Recruitment System** *(🔒 Private)* – Multi-role recruitment portal with automated candidate shortlisting, job management, and application tracking.
+
+- **Quantum Voting System (BB84 + QKD)** *(🔒 Private)* – Secure e-voting system implementing Quantum Key Distribution for encrypted and tamper-resistant voting.
+
+- **HR Workflow Designer** *(🔒 Private)* – React Flow-based visual workflow builder for designing and simulating HR automation processes.
+
+- **Wedding Company Frontend Application** *(🔒 Private)* – Responsive React & TypeScript application with modern UI for event and wedding management.
+
+- **AI Object Detection** *(🔒 Private)* – Computer vision project for real-time object detection using AI techniques.
+
+- **Inventory Management System** *(🔒 Private)* – Stock and inventory management solution with database integration and reporting.
+
+- **Student Performance Dashboard** *(🌐 Public)* – Interactive Power BI dashboard for visualizing student performance and analytics.
+
+- **Student-Teacher Booking System** *(🌐 Public)* – Appointment scheduling platform connecting students and faculty.
+
+- **Portfolio Website** *(🌐 Public)* – Personal portfolio showcasing projects, technical skills, certifications, and achievements.
 ---
 
 ## 📜 Certifications

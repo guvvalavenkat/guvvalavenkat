@@ -1,4 +1,5 @@
 <h1 align="center">Hey there, I'm Venkat Reddy! 👋</h1> 
+<h2> Note: Some of my project repositories are private due to academic, security, or licensing reasons. If you'd like to review the source code, please feel free to contact me.</h2>
 
 ## 🌐 Web Developer
 
